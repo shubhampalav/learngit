@@ -6,10 +6,6 @@ class MyNum
 		this.num=num;
 	}
 }
-
-
-
-
 public class ObjectDemo1
 {
 	public static void main(String args[])
